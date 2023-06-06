@@ -13,12 +13,6 @@ User cannot start another encoding process while the current one is in progress,
 
 •	Use the latest released .Net & C# with all possible new features they provide.
 
-• Server-side app should be hosted in Linux Docker container.
-
-• Host API & UI backend in different containers.
-
-•	Support basic authentication using nginx in another container.
-
 •	Business logic should be implemented as services, with unit tests for each respectively.
 
 
