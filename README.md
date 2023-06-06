@@ -20,3 +20,6 @@ User cannot start another encoding process while the current one is in progress,
 •	Support basic authentication using nginx in another container.
 
 •	Business logic should be implemented as services, with unit tests for each respectively.
+
+
+Frontend > https://github.com/crismavictoria/Frontend
