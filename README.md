@@ -22,4 +22,7 @@ User cannot start another encoding process while the current one is in progress,
 •	Business logic should be implemented as services, with unit tests for each respectively.
 
 
+
+Notes: 
+
 Frontend > https://github.com/crismavictoria/Frontend
